@@ -5,7 +5,7 @@
 ***
 
 # Contact for work
-* **Telegram:** t.me/it_is_daijobu
+* **Telegram:** [calangthang](https://t.me/it_is_daijobu)
 * **Email:** calangthangxc9n@gmail.com
 
 ***
