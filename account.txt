@@ -1,0 +1,2 @@
+<delete this line before import>   import the list of accounts to here
+<delete this line before import>   format: gmail:password
